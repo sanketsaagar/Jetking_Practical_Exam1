@@ -1,0 +1,4 @@
+Solidity Programming Language is used for writing Smart contract. The extention of Solidity programming is .sol . 
+The smart contract written for different crypto-currency is in solidity language. It is an object orianted programming 
+language. Solidity language is only used to write program in backend. Solidity programming language is flexible and easy to write.
+We have remix IDE where one can write solidity easily.
